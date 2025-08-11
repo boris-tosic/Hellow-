@@ -6,29 +6,45 @@ I am going to be creating a web application where you can place an order for equ
 # H1 Functional Requirements
 
 Users can log in, log out and create a new account
+
 Users can view and edit their account e.g address, contact information
+
 Users can view order history and delivery status
 
 Users can view recommended tools, specials, and recent purchases on the homepage
+
 Users can browse tools by category/type
+
 Users can search specific tools or brands
+
 Users can filter products by price, store, brand, power output etc.
+
 Users can compare identical products across different stores to get the best price *
 
 Users can add or remove products from their cart/baskets
+
 Users can view and edit the basket; change quantity 
+
 Users can proceed to checkout
+
 Users can pay by card by filling out a form
+
 Users can check the estimated remaining delivery time in real time
 
 # H1 Non Functional Requirements
 
 Website should take less than 3 seconds to load
+
 The website should be able to have many users on it simultaneously without crashing or slowing down
+
 User data (especially card information) should be stored securely and encrypted and comply with laws relating to data handling*
+
 The whole website should be simple to use and understand
+
 The search function should work properly and allow for typos to be made *
+
 The code should be uncluttered and free of any bugs
+
 
 * might run out of time for requirements marked with a star
 
@@ -39,3 +55,4 @@ The code should be uncluttered and free of any bugs
 I will be using a basic font such as a thick roboto for my subheadings, I would use a  thinner version for the user input appearing on the screen.
 I used cordovan red as one of my main colours as it brings excitement and rush which is something that would benefit us as it is meant to be a quick delivery website. The  reseda Green is mainly used to counter the red and calm the individual down but also maintain an aesthetically pleasing layout. The background colour would probably be a shade of white such as white Smoke White and the text colour would be night black. I will try to include space cadet purple somewhere in the web design, most likely somewhere in the account page. 
 I will use images mainly as icons to show the user what they are buying so that they can mo
+
